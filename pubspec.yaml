@@ -1,0 +1,14 @@
+name: 'dart_redstone_starterkit'
+version: 0.0.1
+description: A web server built using the shelf package.
+#author:  <email@example.com>
+#homepage: https://www.example.com
+
+environment:
+  sdk: '>=1.0.0 <2.0.0'
+
+dependencies:
+  di: '^3.3.10'
+  redstone: '^0.6.4'
+  redstone_mapper: '0.2.0'
+  redstone_mapper_pg: '0.2.0-beta.2+2'
